@@ -50,7 +50,7 @@ export const ContactsPage = (props) => {
       <hr />
       <section>
         <h2>Contacts</h2>
-        <TileList contacts={props.contacts}/>
+        <TileList arr={props.contacts}/>
       </section>
     </div>
   );
