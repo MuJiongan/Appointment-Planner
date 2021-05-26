@@ -34,7 +34,7 @@ export const ContactsPage = (props) => {
   */
   const hasDuplicateName = (e) => {
     for (var contact of props.contacts){
-      if (contact.name === e.target.value){
+      if (contact.name === name){
         return true;
       }
     }
