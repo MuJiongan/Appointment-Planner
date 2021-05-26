@@ -1,6 +1,6 @@
 # Appointment Planner
 
-[Deployed using surge](http://mjaappointmentplanner.surge.sh/contacts)
+[Deployed using surge](http://mjaappointmentplanner.surge.sh/)
 
 In this project, I used functional React components to create an app that manages contacts and appointments. 
 
