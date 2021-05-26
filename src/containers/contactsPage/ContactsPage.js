@@ -25,6 +25,8 @@ export const ContactsPage = (props) => {
       setName('');
       setPhone('');
       setEmail('');
+    }else{
+      alert("You can't choose this name!")
     }
   };
 
